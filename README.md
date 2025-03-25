@@ -70,8 +70,8 @@ Herhangi bir güvenlik açığı tespit ederseniz lütfen doğrudan [e-posta adr
 ## 📞 İletişim
 
 - Proje Sahibi: Arda Çırak
-- E-posta: [iletişim e-postası]
-- Proje Bağlantısı: [GitHub Repo Linki]
+- E-posta: ardacirak@webmaxtr.com
+- Proje Bağlantısı: https://www.linkedin.com/in/bykurtu/
 
 ---
 
